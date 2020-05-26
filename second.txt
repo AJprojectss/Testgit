@@ -1,0 +1,2 @@
+it is a second file to git 
+its second paragraph
